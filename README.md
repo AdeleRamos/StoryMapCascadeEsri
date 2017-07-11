@@ -1,2 +1,2 @@
 # StoryMapCascadeEsri
-Clone of Story Map Cascade by ESRI (test)
+Zip file of Story Map Cascade by ESRI (test)
